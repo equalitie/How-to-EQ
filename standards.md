@@ -331,3 +331,35 @@ the following standards for coding practices:
 
 Your project must use and run the appropriate linter for each language you use.
 If you feel like it, you can increase the level of pedantry, but never reduce it.
+
+### Releases and versioning
+
+#### Releasing software
+
+Eq defines a software **release** as
+
+> A package containing everything anyone needs to get a piece of software running
+> right out of the box.
+
+That means that, when you are ready to submit a release of your software through
+Github and/or the project's official website, you should have compiled all of the
+resources, binaries, distributables, configuration files, source code, and
+documentation that a user needs into one place.
+
+Once your packaged has been created, you are _strongly encouraged_ to (read:
+you absolutely **must**) follow these steps before submitting it:
+
+1. Download the package to a virtual machine used exclusively for testing builds
+  * Recall that Eq largely builds for the latest [stable Debian](https://www.debian.org/releases/stable/), so use that
+2. Set up the software by blindly following the packaged documentation
+  * You want to make sure that someone who has never touched the project can run it
+  * Assume no background knowledge or preconditions
+3. Run the software and verify that it runs as expected
+
+If this final task can be completed without any trouble, you can deploy your release!
+
+#### Versioning releases
+
+It is good practice in software development to use a versioning scheme that
+accurately describes the state of the software you are releasing.  Eq has decided to
+use and **strictly adhere to** the [semantic versioning](http://semver.org/) scheme.
