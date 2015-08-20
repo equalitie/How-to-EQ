@@ -232,6 +232,24 @@ conflict should not occur.
 
 This process starts when a developer has taken up an issue or a ticket.
 
+#### What is an issue/ticket/bug?
+
+Essentially, it's a piece of work that you are going to do. It is not:
+* A single line that describes nothing "Making code for function work now"
+* Isolated from the overall project
+* Lacking in description
+* Lacking watchers(overview people who can track what's going on)
+
+On the flip side what it has is this:
+* A single line that encapsulates as clearly as possible the purpose of the ticket
+* A description detailing as much as possible what is going to be done and how
+* A set of watchers assigned, these should include at the absolute minimum the Technical Coordinator and the Team lead
+* A DUE DATE
+* A link to the project it is for
+If it doesn't have all of those things it's not worth anything and you're fired.
+
+#### The next loop in the cycle
+
 1. Create a new branch
   * The branch name should be short but descriptive, ideally including a redmine ticket number
   * The branch should be based on the most stable point to which the task is relevant
