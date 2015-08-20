@@ -1,6 +1,6 @@
 # eQualit.ie Coding Standards and Development Practices
 
-**How to now make crap software/systems**
+**How to not make crap software/systems**
 
 ## Overview
 
