@@ -374,7 +374,10 @@ you absolutely **must**) follow these steps before submitting it:
   * Assume no background knowledge or preconditions
 3. Run the software and verify that it runs as expected
 
-If this final task can be completed without any trouble, you can deploy your release!
+If this final task can be completed without any trouble, you can pass your release to the systems team!
+
+#### OAC
+The systems team uses the eq [Operational Acceptance Criteria](https://wiki.equalit.ie/wiki/Operational_acceptance_criteria) to evaluate and impose requirements and restrictions on software and systems deployed to the eq networks and machines. This guide contains many generally applicable needs for deployable software and all eq tools, platforms or systems should adhere to this criteria.
 
 #### Versioning releases
 
