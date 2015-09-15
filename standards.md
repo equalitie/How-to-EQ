@@ -8,36 +8,36 @@
 - [How to use this document](#how-to-use-this-document)
 - [An eq project is born](#a-project-is-born)
 	- [Specifications](#specifications)
-	- [Project timeline / Gantt chart](#)
+	- [Project timeline](#project-timeline)
 	- [Runbook](#runbook)
 	- [Github repository](#github-repository)
-- [Have you done all that?](#)
-- [The development process](#)
-	- [Documentation](#)
-	- [Communication](#)
-		- [Team communications](#)
-		- [Stakeholder communications](#)
-			- [Health checks](#)
-			- [Quarterly reporting](#)
-			- [Time logging](#)
-				- [Team holidays](#)
-	- [The development cycle](#)
-		- [What is an issue/ticket/bug?](#)
-		- [The next loop in the cycle](#)
-	- [Code review](#)
-	- [Testing](#)
-		- [Testing systems](#)
+- [Have you done all that?](#have-you-done-all-that)
+- [The development process](#the-development-process)
+	- [Documentation](#documentation)
+	- [Communication](#communication)
+		- [Team communications](#team-communications)
+		- [Stakeholder communications](#stakeholder-communications)
+			- [Health checks](#health-checks)
+			- [Quarterly reporting](#quarterly-reporting)
+			- [Time logging](#time-logging)
+				- [Team holidays](#team-holidays)
+	- [The development cycle](#the-development-cycle)
+		- [What is an issue/ticket/bug?](#what-is-an-issue)
+		- [The next loop in the cycle](#the-next-loop-in-the-cycle)
+	- [Code review](#code-review)
+	- [Testing](#testing)
+		- [Testing systems](#testing-systems)
 			- [Python](#)
 			- [C/C++](#)
 			- [Javascript](#)
 			- [Go](#)
 			- [Java](#)
 			- [PHP](#)
-	- [Coding standards](#)
-	- [Releases and versioning](#)
-		- [Releasing software](#)
-		- [OAC](#)
-		- [Versioning releases](#)
+	- [Coding standards](#coding-standards)
+	- [Releases and versioning](#realeses-and-versioning)
+		- [Releasing software](#releasing-software)
+		- [OAC](#oac)
+		- [Versioning releases](#versioning-releases)
 
 
 
@@ -88,7 +88,7 @@ The purpose of a specs is to expose what elements of a project are clear to buil
 elements are areas of uknown or uncertainty. By identifying areas of potential uncertainty
 up front the project can better plan its time and protect itself from black hole caveats. 
 
-### Project timeline / Gantt chart
+### Project timeline
 
 Once the specs have been drawn up, you can just start coding right? No, get out you're fired.
 If the spec is ok and someone else in eq, ideally someone with a critical eye, then the next
