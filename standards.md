@@ -331,7 +331,7 @@ For a long time people made god awful code, they lied to themselves and said “
 it later” or “It's grand it's just one commit” - those people are not us.
 
 Eq uses an array of different languages, tools, platforms and systems. So we have chosen
-(the following standards for coding practices)[style-proposals.md]
+[the following standards for coding practices](style-proposals.md)
 
 Your project must use and run the appropriate linter for each language you use.
 If you feel like it, you can increase the level of pedantry, but never reduce it.
