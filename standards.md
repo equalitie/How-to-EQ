@@ -1,13 +1,16 @@
+# eQualit.ie Coding Standards and Development Practices
+
+**How to not make crap software/systems**
+
 **Table of Contents** 
 
-- [eQualit.ie Coding Standards and Development Practices](#)
-	- [Overview](#)
-	- [How to use this document](#)
-	- [An eq project is born](#)
-		- [Specifications](#)
+	- [Overview](#overview)
+	- [How to use this document](#how-to-use-this-document)
+	- [An eq project is born](#a-project-is-born)
+		- [Specifications](#specifications)
 		- [Project timeline / Gantt chart](#)
-		- [Runbook](#)
-		- [Github repository](#)
+		- [Runbook](#runbook)
+		- [Github repository](#github-repository)
 	- [Have you done all that?](#)
 	- [The development process](#)
 		- [Documentation](#)
@@ -36,9 +39,7 @@
 			- [OAC](#)
 			- [Versioning releases](#)
 
-# eQualit.ie Coding Standards and Development Practices
 
-**How to not make crap software/systems**
 
 ## Overview
 
