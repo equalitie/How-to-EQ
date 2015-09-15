@@ -1,3 +1,7 @@
+# eQualit.ie Coding Standards and Development Practices
+
+**How to not make crap software/systems**
+
 - [eQualit.ie Coding Standards and Development Practices](#)
 	- [Overview](#)
 	- [How to use this document](#)
@@ -34,9 +38,7 @@
 			- [OAC](#)
 			- [Versioning releases](#)
 
-# eQualit.ie Coding Standards and Development Practices
 
-**How to not make crap software/systems**
 
 ## Overview
 
