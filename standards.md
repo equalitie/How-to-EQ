@@ -1,3 +1,5 @@
+**Table of Contents** 
+
 - [eQualit.ie Coding Standards and Development Practices](#)
 	- [Overview](#)
 	- [How to use this document](#)
